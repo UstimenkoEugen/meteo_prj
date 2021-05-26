@@ -48,4 +48,6 @@
 
 Технічна структура системи показана на рисунку.
 
+ [id]: https://user-images.githubusercontent.com/80102245/118132084-f7cb5200-b407-11eb-9fd2-8ae96d6d06da.png
+
 
