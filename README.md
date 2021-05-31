@@ -54,7 +54,22 @@
 
 Принципова схема підключення датчиків та виконавчих механізмів до RPI3 показана на рисунку.
 
-![alt tag](https://user-images.githubusercontent.com/80102245/120174018-4d2b9f80-c20d-11eb-99ad-673e2a0af48b.png)
+![alt tag](https://user-images.githubusercontent.com/80102245/120204936-0b612000-c232-11eb-86b7-4d71ac590513.jpg)
+
+Схема підключення та вигляд датчика дощу FC-37.
+
+![alt tag](https://user-images.githubusercontent.com/80102245/120205232-6430b880-c232-11eb-80b5-81e748aa5b4e.png)
+![alt tag](https://user-images.githubusercontent.com/80102245/120205345-888c9500-c232-11eb-9231-25d2a7d46325.png)
+
+Схема підключення та вигляд високо-точного барометра BMP-388
+
+![alt tag](https://user-images.githubusercontent.com/80102245/120206024-57609480-c233-11eb-9c86-6a9501638330.png)
+![alt tag](https://user-images.githubusercontent.com/80102245/120206057-62b3c000-c233-11eb-931b-5caeec1491e8.png)
+
+Схемапідключення та вигляд датчика температури й вологості DHT-22
+
+![alt tag](https://user-images.githubusercontent.com/80102245/120206210-955db880-c233-11eb-8cd9-4d6793605816.png)
+![alt tag](https://user-images.githubusercontent.com/80102245/120206229-9abb0300-c233-11eb-8504-f5f068ff633f.png)
 
 ### **Відомість апаратних та програмних засобів.**
 Таб.1
@@ -62,9 +77,9 @@
 |:----|:----|:----|
 | Raspberry PI | 1 | У комплекті з корпусом, блоком живлення та картою пам'яті |
 | Макетна плата 170 | 1 | - |
-| Датчик дощу FC-37 | 1 | - |
-| Високоточний Барометр BMP-388 | 1 | - |
-| Датчик вологості і температури DHT-22 | 1 | - |
+| Датчик дощу FC-37 | 1 | https://miniboard.com.ua/sensors/70-modul-datchika-dozhdya-fc-37.html |
+| Високоточний Барометр BMP-388 | 1 | https://miniboard.com.ua/sensors/846-vysokotochnyj-barometr-bmp388-waveshare.html |
+| Датчик вологості і температури DHT-22 | 1 | https://miniboard.com.ua/sensors/433-modul-datchika-dht-22-waveshare.html |
 | Світлодіод | 1 | - |
 | Резистор 1 кОм | 1 | - |
 | Провід dupont (мама-тато) | 17 | 5 чорних, 7 червоних, 5 зелених |
