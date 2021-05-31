@@ -66,7 +66,7 @@
 ![alt tag](https://user-images.githubusercontent.com/80102245/120206024-57609480-c233-11eb-9c86-6a9501638330.png)
 ![alt tag](https://user-images.githubusercontent.com/80102245/120206057-62b3c000-c233-11eb-931b-5caeec1491e8.png)
 
-Схемапідключення та вигляд датчика температури й вологості DHT-22
+Схема підключення та вигляд датчика температури й вологості DHT-22
 
 ![alt tag](https://user-images.githubusercontent.com/80102245/120206210-955db880-c233-11eb-8cd9-4d6793605816.png)
 ![alt tag](https://user-images.githubusercontent.com/80102245/120206229-9abb0300-c233-11eb-8504-f5f068ff633f.png)
